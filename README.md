@@ -28,6 +28,6 @@
 
 ## 缺陷样例：
 
-![示例说明](/User/caoyuan/explain.png)
+![示例说明](/explain.png)
 
 
